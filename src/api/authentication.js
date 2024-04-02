@@ -1,4 +1,4 @@
-import { usePost } from "../hooks/api";
+import { usePost } from "@/hooks/api";
 
 export const registerUser = async (userData) => { 
     try {
